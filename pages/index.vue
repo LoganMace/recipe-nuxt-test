@@ -1,11 +1,9 @@
 <template>
-  <section class="container">
-    
-  </section>
+  <h1>This Home Page</h1>
 </template>
 
-<script>
-
-export default {
-}
-</script>
+<style scoped>
+  h1 {
+    text-align: center;
+  }
+</style>
